@@ -32,7 +32,7 @@ The TrackCalories-Webpack project helps you track your daily calorie intake, man
 ```
 
 ## Deployment
-This project is deployed in netlify. You can checkout trackcaloriesday-to-day.netlify.app
+This project is deployed in netlify. You can checkout here https://trackcaloriesday-to-day.netlify.app
 
 
 
